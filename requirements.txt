@@ -1,6 +1,5 @@
-﻿pytest
+pytest
 pytest-mock
 pytest-bdd
 pytest-cov
 selenium
-webdriver-manager
